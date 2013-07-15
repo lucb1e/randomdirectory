@@ -13,3 +13,9 @@ firefox-sync/server-full/lib/python2.7/site-packages/setuptools/tests/
 Example usage:
 luc@luc-mint2 ~ $ cd `./randdir.php` # mind the backticks
 luc@luc-mint2 ~/p/downloaded/fftw-3.3.2/rdft/scalar/r2r/.libs $ # random directory!
+
+
+== Extra fun! ==
+
+If you like playing Russian Roulette, you might like this game:
+luc@luc-mint2 ~ $ rm `./randdir.php /`
